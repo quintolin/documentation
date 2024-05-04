@@ -8,7 +8,7 @@ Visit [doc/README.md](doc/README.md) file to start reading.
 ## License
 
     Quintolin - persistent browser-based multiplayer game
-    Copyright (C) 2023 Krzysztof Sikorski
+    Copyright (C) 2024 Krzysztof Sikorski
     Copyright (C) 2009-2010 Isaac Lewis for original implementations
     Copyright (C) 2013 Troy Goode for NodeJS re-implementation
 
