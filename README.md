@@ -3,6 +3,8 @@
 This is documentation for the fifth edition
 of the persistent browser-based game “Shintolin”.
 
+Visit [doc/README.md](doc/README.md) file to start reading.
+
 ## License
 
     Quintolin - persistent browser-based multiplayer game
