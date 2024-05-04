@@ -34,7 +34,7 @@ You can also read it in HTML format at
 
 This repository is published to multiple core-sharing portals:
 
-- [GitHub](https://github.com/quintolin/documentation)
+- [GitHub](https://github.com/quintolin/documentation) (main mirror)
 - [GitLab](https://gitlab.com/quintolin/documentation)
 - [Bitbucket](https://bitbucket.org/quintolin/documentation)
 - [Codeberg](https://codeberg.org/quintolin/documentation)
